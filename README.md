@@ -31,5 +31,10 @@ Using unsupervised learning, create a report that includes what cryptocurrencies
     -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/standardScaler.png) 
 
 ### Reducing Data Dimensions
+ - #### Reduce Dimensions to Three Principal Components
+   -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/reduce_dimensions_to_three_components.png) 
+ - #### Create DataFrame with Three Principal Components
+   -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/reduce_dimensions_to_three_components.png) 
+
 ### Clustering Crytocurrencies using K-means.
 ### Visualizing Cryptocurrencies
