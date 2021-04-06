@@ -37,4 +37,18 @@ Using unsupervised learning, create a report that includes what cryptocurrencies
    -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/reduce_dimensions_to_three_components.png) 
 
 ### Clustering Crytocurrencies using K-means.
+ - #### Find the Best Value for k Using the Elbow Curve
+   -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/Elbow_curve_for_k.png)
+ - #### Initialize the K-Means Model with k=4.
+   -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/initialize_Kmeans_Model.png) 
+
 ### Visualizing Cryptocurrencies
+ - #### 3D-Scatter with Clusters
+  -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/3D-Scatter.png)
+ - #### Hvplot.scatter Plot 
+  -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/hvplot_scatter.png) 
+  
+# Contact Information
+Email: Stephenanayashilliard@gmail.com
+
+Linkedin: [Linkedin for Stephen Anayas-Hilliard](https://www.linkedin.com/in/stephen-anayas-hilliard-942a8431/)
