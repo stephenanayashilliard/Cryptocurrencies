@@ -19,6 +19,16 @@ Using unsupervised learning, create a report that includes what cryptocurrencies
   - KMeans
 
 ### Preproccessing the Data
+ - #### Keep All Cryptocurrencies Being Traded.
+    -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/cryptocurrencies_being_traded.png) 
+ - #### Keep All Cryptocurrencies that have Working Algorithms
+    -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/crypto_with_working_algorithms.png) 
+ - #### Find All Null Values
+    -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/find_null_values.png) 
+ - #### Use get_dummies() to Create Variables for Text Features.
+    -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/get_dummies_for_text_features.png) 
+ - #### Standardize the Data with StandardScaler.
+    -![](https://github.com/stephenanayashilliard/Cryptocurrencies/blob/main/Resources/standardScaler.png) 
 
 ### Reducing Data Dimensions
 ### Clustering Crytocurrencies using K-means.
